@@ -24,10 +24,10 @@ Projeto desenvolvido em Java com foco em controle e gerenciamento de equipamento
 
 ## 📂 Estrutura do Projeto
 src/
-├── Main.java
-├── Equipamento.java
-├── PlacaSolar.java
-└── TelhaEolica.java
+── Main.java
+── Equipamento.java
+── PlacaSolar.java
+── TelhaEolica.java
 
 ---
 
