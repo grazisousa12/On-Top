@@ -42,7 +42,11 @@ Registrar trocas e inspeções de equipamentos
 Emitir alertas preventivos
 Gerar relatórios de desempenho energético
 
+---
 
+## 📸 Demonstração
+
+![Demonstração do sistema](print-ontop.png)
 
 ---
 
