@@ -1,10 +1,10 @@
-# ☀️ ONTop - Sistema de Gerenciamento de Energias Renováveis
+☀️ ONTop - Sistema de Gerenciamento de Energias Renováveis
 
 Projeto desenvolvido em Java com foco em controle e gerenciamento de equipamentos de energia renovável, como placas solares e telhas eólicas.
 
 ---
 
-## 🚀 Funcionalidades
+Funcionalidades
 
 - Cadastro de equipamentos
 - Controle de manutenção
@@ -14,7 +14,7 @@ Projeto desenvolvido em Java com foco em controle e gerenciamento de equipamento
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 - Java
 - Programação Orientada a Objetos (POO)
@@ -22,7 +22,7 @@ Projeto desenvolvido em Java com foco em controle e gerenciamento de equipamento
 
 ---
 
-## 📂 Estrutura do Projeto
+Estrutura do Projeto
 src/
 ── Main.java
 ── Equipamento.java
@@ -31,7 +31,7 @@ src/
 
 ---
 
-## 🎯 Objetivo do Projeto
+Objetivo do Projeto
 
 Aplicar conceitos de Programação Orientada a Objetos para desenvolver uma solução prática voltada à área de energias renováveis. Gerenciar, monitorar e otimizar a manutenção de soluções de energias renováveis, como placas solares, telhas eólicas e carregadores solares, garantindo maior eficiência energética, redução de custos e aumento da vida útil dos equipamentos.
 
@@ -44,7 +44,7 @@ Gerar relatórios de desempenho energético
 
 ---
 
-## 📸 Demonstração
+Demonstração
 
 ![Demonstração do sistema](print-ontop.png)
 
